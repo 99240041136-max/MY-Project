@@ -1,0 +1,5 @@
+{
+  "name": "EduQuest AI",
+  "description": "An intelligent, personalized learning platform designed to make high-quality education accessible and inclusive for everyone.",
+  "requestFramePermissions": ["microphone"]
+}
